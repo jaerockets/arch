@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="canvas.css">
+</head>
+
+<body>
+    <p id="text">Ligma</p>
+    <form>
+        <input type="button" id="myButton" value="NO" onclick="Buttontoggle();">
+    </form>
+    <script type="text/javascript">
+        function Buttontoggle() {
+            var t = document.getElementById("myButton");
+            if (t.value == "YES") {
+                t.value = "NO";
+            }
+            else if (t.value == "NO") {
+                t.value = "YES";
+            }
+            if (t.value == "YES") {
+                document.getElementById("text").innerHTML = "Sugma";
+            }
+            else if (t.value == "NO") {
+                document.getElementById("text").innerHTML = "Ligma";
+            }
+        }
+    </script>
+</body>
+
+</html>
