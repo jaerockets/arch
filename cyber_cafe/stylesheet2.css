@@ -1,0 +1,11 @@
+body {
+	background-image: url('background.png');
+    font-family: Lain;
+    color:white;
+}
+a {
+    text-decoration:none;
+}
+.path {
+    text-align:center;
+}

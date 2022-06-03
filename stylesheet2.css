@@ -1,0 +1,12 @@
+@font-face{
+    font-family: "Lain";
+    src: url('lain.ttf');
+}
+body {
+	background-image: url('media/lain/background_01.png');
+    font-family: Lain;
+    color:white;
+}
+a {
+    text-decoration:none;
+}
