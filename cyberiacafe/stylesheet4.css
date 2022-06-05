@@ -1,0 +1,26 @@
+@font-face{
+    font-family: "Lain";
+    src: url('lain.ttf');
+}
+
+a {
+    text-decoration:none;
+}
+
+body {
+    background-color: black;
+    color:#42FF42;
+}
+
+.title {
+    text-align: center;
+    font-size: 26px;
+}
+
+.desc {
+    text-align: center;
+    font-size: 18px;
+}
+.thmb {
+    text-align: center;
+}

@@ -10,3 +10,7 @@ body {
 a {
     text-decoration:none;
 }
+.banner {
+    float:left;
+    height: 46px;
+}
