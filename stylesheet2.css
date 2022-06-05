@@ -3,7 +3,7 @@
     src: url('lain.ttf');
 }
 body {
-	background-image: url('media/lain/background_01.png');
+	background-image: url('cyberiacafe/lain/background_01.png');
     font-family: Lain;
     color:white;
 }
