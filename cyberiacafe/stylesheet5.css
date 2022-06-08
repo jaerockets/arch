@@ -1,0 +1,16 @@
+@font-face{
+    font-family: "Lain";
+    src: url('lain.ttf');
+}
+
+body {
+	background-image: url('lain/background00.jpg');
+    font-family: Lain;
+    color:white;
+}
+a {
+    text-decoration:none;
+}
+.path {
+    text-align:center;
+}

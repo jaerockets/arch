@@ -24,3 +24,6 @@ body {
 .thmb {
     text-align: center;
 }
+img {
+    max-width:90px;
+}
