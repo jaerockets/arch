@@ -1,0 +1,52 @@
+body {
+	background-image: url('media/tangbg.png');
+    background-position: top;
+    background-size:100%;
+	background-color: #2d2d2d;
+	color: white;
+	font-family: Arial;
+}
+h1 {
+	color: #16fff3;
+	font-family: Arial;
+}
+a {
+	color: #f4048c;
+	font-family: Arial;
+	text-decoration: none;
+}
+label {
+	font-family: Arial;
+}
+.pic {
+	text-align: right;
+}
+aside {
+	text-align: right; 
+}
+footer {
+	text-align: right;
+	padding-top: 272px;
+	padding-right: 300px;
+	font-family: Arial;
+	text-decoration: none;
+}
+.project {
+    color: #EDEF5F;
+    font-weight: bold;
+	font-family: Arial;
+    font-size: 19px;
+	text-decoration: none;
+}
+.desc {
+    font-size: 12px;
+}
+.jsdate {
+    font-size: 10px;
+    font-style: italic;
+    color:#EDEF5F;
+}
+.jshead {
+	color: #C61755;
+	font-family: consolas;
+}
