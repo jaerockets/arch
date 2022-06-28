@@ -48,3 +48,7 @@ footer {
 	color: #C61755;
 	font-family: consolas;
 }
+.label {
+	background-color:black;
+	max-width:fit-content;
+}
