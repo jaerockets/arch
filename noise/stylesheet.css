@@ -1,0 +1,13 @@
+body {
+    background-color:black;
+    color:yellow;
+    font-family:arial;
+    line-height:1.4;
+}
+
+.date {
+    color:white;
+    background:black;
+    font-size:x-small;
+    font-style: italic;
+}

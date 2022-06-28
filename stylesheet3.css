@@ -6,47 +6,23 @@ body {
 	color: white;
 	font-family: Arial;
 }
-h1 {
-	color: #16fff3;
-	font-family: Arial;
+
+.entry {
+    font-size:x-large;
+    background:black;
+    text-align:center;
+    width:fit-content;
+    margin:0 auto;
 }
-a {
-	color: #f4048c;
-	font-family: Arial;
-	text-decoration: none;
-}
-label {
-	font-family: Arial;
-}
-.pic {
-	text-align: right;
-}
-aside {
-	text-align: right; 
-}
-footer {
-	text-align: right;
-	padding-top: 272px;
-	padding-right: 300px;
-	font-family: Arial;
-	text-decoration: none;
-}
-.project {
-    color: #EDEF5F;
-    font-weight: bold;
-	font-family: Arial;
-    font-size: 19px;
-	text-decoration: none;
-}
-.desc {
-    font-size: 12px;
-}
-.jsdate {
-    font-size: 10px;
+
+.date {
+    color:white;
+    background:black;
+    font-size:small;
     font-style: italic;
-    color:#EDEF5F;
 }
-.jshead {
-	color: #C61755;
-	font-family: consolas;
+
+a {
+    text-decoration:none;
+    color:yellow;
 }
