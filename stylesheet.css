@@ -49,6 +49,8 @@ footer {
 	font-family: consolas;
 }
 .label {
+	font-size: 24px;
+	font-weight:bold;
 	background-color:black;
 	max-width:fit-content;
 }
